@@ -1,0 +1,162 @@
+*
+{
+    direction: rtl;
+}
+body{
+    background-color: #e3ecf0;
+}
+.btn
+{
+    border-color: #16c1f5;
+    color:#16c1f5 ;
+    margin: 0px 5px;
+}
+.bg-light
+{
+    background-color:#4e7d8d  !important;
+}
+nav{
+    border-top: 4px solid pink;
+}
+nav ul li a
+{
+    color: white !important;
+    font-weight: 600;
+}
+nav ul li
+{
+    border-right: 1px solid #fff;
+}
+.last-link
+{
+    border-left: 1px solid #fff;
+}
+nav ul li a:hover{
+    color: #16c1f5 !important;
+}
+.fa-circle
+{
+    font-size: 8px;
+}
+.corona a{color: red !important; font-size: 18px; font-weight: 600;text-decoration: none;}
+.one{
+    right: 0%;
+}
+.two
+{
+    right: 18%
+}
+.three
+{
+    right:36%;
+}
+.four{
+    right: 55%;
+}
+.five{
+    right:73%
+}
+.one h3 ,.two h3,.three h3,.four h3,.five h3{
+    top: 40%;
+    right: 36%;
+    color: #fff;
+    font-size: 22px;
+}
+.two h3
+{
+    right: 48%;
+}
+.three h3
+{
+    right: 46%;
+}
+.four h3
+{
+    right: 36%;
+}
+.five h3
+{
+    right: 36%;
+}
+.main1
+{
+    margin-top: 300px;
+}
+.main1 .astc
+{
+    background-color: #bbf2e4;
+    border-bottom: 4px solid #6ee9c2;
+}
+.astc1
+{
+    background-color: #bbf2e4;
+}
+.icon .row i{
+    border: 1px solid salmon;
+    border-radius: 50%;
+    padding: 20px;
+    background-color: salmon;
+    color: #fff;
+}
+.icon h5
+{
+    font-size: 16px;
+}
+.image-caption
+{
+    top: 80%;
+}
+.overlayer
+{
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image: linear-gradient(transparent,#33f);
+}
+.haml
+{
+    background-color: #e3ecf0;
+}
+.footer
+{
+    background-color: #f7fafb;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #29333f;
+}
+.footer-links ul li
+{
+    list-style: none;
+    float: right;
+    padding: 0 20px;
+    border-left: 1px solid #29333f;
+}
+.s
+{
+    border-right: 1px solid #29333f;
+}
+.last-footer{
+    background-color: #fff;
+}
+.last-footer i
+{
+    border: 1px solid #29333f;
+    color: #fff;
+    background-color: #29333f;
+    font-size: 18px;
+}
+.fa-facebook-f
+{
+    padding: 4px 8px;
+}
+.red
+{
+    width: 100%;
+    height: 3px;
+    background-color: red;
+}
+.w-90{
+    width: 90%;
+}
