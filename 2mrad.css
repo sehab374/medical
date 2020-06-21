@@ -1,0 +1,267 @@
+*
+{
+    
+    direction: rtl;
+    font-family: "roboto";
+}
+body
+{
+    font-family: "roboto",lfont;
+    
+    font-weight: 900;
+}
+
+.btn
+{
+    border-color: #16c1f5;
+    color:#16c1f5 ;
+    margin: 0px 5px;
+}
+.bg-light
+{
+    background-color:#4e7d8d  !important;
+}
+nav{
+    border-top: 4px solid pink;
+}
+nav ul li a
+{
+    color: white !important;
+    font-weight: 600;
+}
+nav ul li
+{
+    border-right: 1px solid #fff;
+}
+.last-link
+{
+    border-left: 1px solid #fff;
+}
+nav ul li a:hover{
+    color: #16c1f5 !important;
+}
+.fa-circle
+{
+    font-size: 8px;
+}
+.corona a{color: red !important; font-size: 18px; font-weight: 600;text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Head
+{
+    text-align: center !important;
+    
+}
+.btn
+{
+    padding: 2.5;
+    margin: 0px 20px;
+}
+.btn-outline-secondary
+{
+    color:#16c1f5 ;
+}
+.Head input
+{
+    
+}
+.bg-light
+{
+    background-color:#4e7d8d  !important;
+}
+
+.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-nav .active>.nav-link
+{
+    color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    padding-left: 3rem;
+}
+.Diseases
+{
+    background-color:#e3ecf0;
+    position: relative;
+;
+}
+.img-Diseases img
+{
+    width: 100%;
+    height: 50vh; 
+}
+.Diseases-layer
+{
+    background: rgba(52,105,123,0.5) ;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.asking
+{
+    background-color:#e3ecf0;
+
+}
+.ask-1 , .ask-2  , .ask-3
+{
+    font-family: "roboto";
+    text-align: right;
+
+
+}
+
+.question h2 , .question-2 h2 , .question-3 h2
+{
+    font-family:"roboto",lfont  ;
+    text-align: right;
+    padding: 2rem;
+    border-bottom:3px solid #16c1f5
+}
+.question span , .question-2 span , .question-3 span
+{
+    color:#afa9a9;
+    font-family:"roboto",lfont ;
+    margin-left: 2rem;
+    cursor: pointer;
+
+}
+.question h5 ,.question-2 h5 
+{
+    text-align: right;
+    margin-top: 2rem;
+    color:#2b5464 ;
+    font-family:"roboto",lfont ;
+    cursor: pointer;
+    padding-right: 2rem;
+    
+}
+.overlay-ask , .overlay-ask-2 , .overlay-ask-3 
+{
+    background-color:white;
+}
+.ask-3 h3
+{
+    margin-right: 2rem;
+    color:#afa9a9;
+    font-family:"roboto",lfont ;
+    margin-left: 2rem;
+    cursor: pointer;
+
+}
+h4
+{
+    display: inline-block;
+    line-height: 1.5;
+    padding: 2rem;
+}
+.content
+{
+    text-align: right;
+    margin-top: 2rem;
+    color:#2b5464 ;
+    font-family:"roboto",lfont ;
+    cursor: pointer;
+    padding-right: 2rem;
+    margin: auto;
+}
+.content-1 p
+{
+     font-size: 1.3rem  ;
+     border: 2px solid #f7b555;
+     padding: 2rem;
+     color: #29333f;
+    
+}
+.content-2
+{
+    text-align: right;
+    margin-top: 2rem;
+    color:#2b5464 ;
+    font-family:"roboto",lfont ;
+    cursor: pointer;
+    padding-right: 2rem;
+    margin: auto;
+}
+#description-1 , #description-2 , #description-3 ,#Brief , #Brief-2 , #Brief-3
+
+
+{
+    display: none;
+}
+.ask-2 p
+{
+    border-bottom: 2px solid #dfe4e5;
+    color: #2b5464;
+    padding-bottom: .8rem;
+    padding-top: .9rem;
+    font-size: 1.2rem;
+}
+.question-2 p
+{
+    padding-right: 1rem;
+    cursor: pointer;
+}
+.layer-2
+{
+    background-color:#f3f7f9 ;
+    border: 2px solid #f7b555;
+    margin-top: 3.5rem;
+    padding: 1rem;
+    font-size: .9rem;
+    margin-bottom: 1rem;
+}
+
+.footer
+{
+    background-color: #f7fafb;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #29333f;
+}
+.footer-links ul li
+{
+    list-style: none;
+    float: right;
+    padding: 0 20px;
+    border-left: 1px solid #29333f;
+}
+.s
+{
+    border-right: 1px solid #29333f;
+}
+.last-footer{
+    background-color: #fff;
+}
+.last-footer i
+{
+    border: 1px solid #29333f;
+    color: #fff;
+    background-color: #29333f;
+    font-size: 18px
