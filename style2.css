@@ -1,0 +1,149 @@
+
+.asks
+{
+    background-color: white;
+    padding: 50px;
+    
+    border-radius: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    direction: inherit;
+    font-weight: bold;
+    height: 49.5%;
+    
+    
+}
+#asks
+{
+    height: 45.7%;
+}
+
+body
+{
+    font-weight: 300;
+    line-height: 1.2;
+    color: #29333f;
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+    background-color: #e3ecf0 !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "roboto",lfont;
+
+}
+
+.lightBox-Container
+{
+    background-color: rgb(128, 128, 128 , 0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    display: none;
+    
+}
+.lightBoxItem
+{
+    background-color: white;
+    font-family: 'Cairo', sans-serif;
+    border-radius: 5px;
+    border: none;
+    padding: 20px;
+    width: 90%;
+    height: 90%;
+}
+.lightBoxItem p , h4 , h3 
+{
+    font-size: 1.5rem;
+    margin-top: 5px;
+    text-align: center;
+}
+.x
+{
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+#q1 , #q2 ,#q3 , #q4
+{
+    cursor: pointer;
+}
+
+
+
+
+
+*
+{
+    direction: rtl;
+}
+.btn
+{
+    border-color: #16c1f5 !important;
+    color:#16c1f5 !important;
+    margin: 0px 5px;
+    font-weight: bold !important;
+}
+.bg-light
+{
+    background-color:#4e7d8d!important;
+}
+nav{
+    border-top: 4px solid pink;
+}
+nav ul li a
+{
+    color: rgb(180, 15, 15) !important;
+    font-weight: 600;
+}
+nav ul li
+{
+    border-right: 1px solid #fff;
+}
+.last-link
+{
+    border-left: 1px solid #fff;
+}
+nav ul li a:hover{
+    color: #16c1f5 !important;
+}
+.fa-circle
+{
+    font-size: 8px;
+}
+.corona a{color: red !important; font-size: 18px; font-weight: 600;text-decoration: none;}
+
+.footer
+{
+    background-color: #f7fafb;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #29333f;
+}
+.footer-links ul li
+{
+    list-style: none;
+    float: right;
+    padding: 0 20px;
+    border-left: 1px solid #29333f;
+}
+.s
+{
+    border-right: 1px solid #29333f;
+}
+.last-footer{
+    background-color: #fff;
+}
+.last-footer i
+{
+    border: 1px solid #29333f;
+    color: #fff;
+    background-color: #29333f;
+    font-size: 18px;
+}
+
